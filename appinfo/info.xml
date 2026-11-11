@@ -18,7 +18,7 @@
 	## Acknowledgements
 	
 	Sponsored by the German Federal Ministry of Education and Research, and Prototype Fund.]]></description>
-    <version>0.9.0</version>
+    <version>0.10.0</version>
     <licence>agpl</licence>
     <author mail="matthias.held@uni-konstanz.de">Matthias Held</author>
     <namespace>RansomwareDetection</namespace>
@@ -37,7 +37,7 @@
 	<screenshot>https://github.com/undo-ransomware/ransomware_detection/raw/master/screenshots/ransomware-recovery-0.9.0-3.png</screenshot>
 	<screenshot>https://github.com/undo-ransomware/ransomware_detection/raw/master/screenshots/ransomware-recovery-0.9.0-4.png</screenshot>
     <dependencies>
-        <nextcloud min-version="19" max-version="20"/>
+        <nextcloud min-version="28" max-version="35"/>
     </dependencies>
 
     <background-jobs>
