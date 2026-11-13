@@ -41,3 +41,8 @@ Prototype Fund project.
 [![Sponsored by the Federal Ministry of Education and Research](img/bmbf.png)](https://www.bmbf.de/)
 [![A Prototype Fund Project](img/ptf.png)](https://prototypefund.de/)
 [![Prototype Fund is an Open Knowledge Foundation Project](img/okfn.png)](https://okfn.de/)
+
+## Commercial Support & Custom Integration
+
+Need custom features, enterprise integration, or priority support?
+Maintained by **[Eclipse Technology](https://eclipse-technology.eu)** ([contact@eclipse-technology.eu](mailto:contact@eclipse-technology.eu)).
